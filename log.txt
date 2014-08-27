@@ -1,0 +1,10 @@
+
+[H[2J[question] : distinct - when alias is active ?
+[answer] must use eval to activating the new aliases
+[type] seems to use eval.. because it is aware of the alias
+
+test1
+set hello
+test2
+eval set hello
+[ WORKING BLOCK ] hello

@@ -1,0 +1,16 @@
+[H[2J____ $cmd_err || func _________
+2nd
+
+with eval
+1st
+____ ( $cmd_err )  || func _________
+2nd
+
+with eval
+1st
+____ $cmd_err _________
+1st
+1st
+
+with eval
+1st

@@ -1,0 +1,3 @@
+ $cmd_err || func
+ ( $cmd_err )  || func 
+ $cmd_err

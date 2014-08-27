@@ -1,0 +1,6 @@
+problem: I want to source many .cfg files while blocking them from changing the Bash environment flags
+idea: alias the keyword: set
+notice:    eval "$cmd" != $cmd
+solution:  with eval 
+
+

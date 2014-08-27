@@ -1,0 +1,5 @@
+title: trap ERR vs native error flow
+############################################
+problem: from a bash shell - source a file + error won't exit the shell
+solution1: trap err contain: return 0
+solution2: do error || return 0
