@@ -1,0 +1,4 @@
+language: python
+script: 
+  - chmod +x travis.sh
+  - bash -c ./travis.sh
