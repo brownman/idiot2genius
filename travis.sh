@@ -1,7 +1,5 @@
-sudo apt-get install -y -q tree 
-tree
 
-dir_self=$( cd `basename $0`; pwd )
+dir_self=$( cd `dirname $0`; pwd )
 
 
 steps(){
