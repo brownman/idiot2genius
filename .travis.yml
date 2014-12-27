@@ -1,4 +1,11 @@
 language: python
+cache:
+  - apt
+
+before_install:
+  - sudo apt-get install -y -q tree 
+  - tree
+
 script: 
   - chmod +x travis.sh
   - bash -c ./travis.sh
