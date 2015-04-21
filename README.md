@@ -17,7 +17,7 @@ Available bash Riddles:
 - trap or conditional error workflow
 - nested redirection of stderr
 - why can't I c the calling information when running: ./script.sh which has the command: `caller`
-
+ 
 
 Layout:
 ===
