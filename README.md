@@ -23,7 +23,7 @@ Available bash Riddles:
 Layout:
 === 
 ```bash
-.
+. 
 ├── BANK
 │   ├── ALIAS_LOCK
 │   │   ├── easy.yaml
