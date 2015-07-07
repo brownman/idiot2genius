@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/brownman/idiot2genius.svg?branch=develop)](https://travis-ci.org/brownman/idiot2genius) 
                
                
-             
+               
 Bash Riddles:
 ===
 - useful for interviews
@@ -23,7 +23,7 @@ Available bash Riddles:
 Layout:
 === 
 ```bash
-. 
+.  
 ├── BANK
 │   ├── ALIAS_LOCK
 │   │   ├── easy.yaml
