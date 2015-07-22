@@ -20,7 +20,7 @@ Available bash Riddles:
 - why can't I c the calling information when running: ./script.sh which has the command: `caller`
  
 
-Layout:
+Layout: 
 === 
 ```bash
 .  
