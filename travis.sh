@@ -14,6 +14,6 @@ dir=$dir0/$line
 test -d $dir  &&  { ls $dir; }
 done
 }
-
+echo bye
 steps
 echo hi
