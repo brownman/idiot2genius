@@ -4,7 +4,7 @@ dir_self=$( cd `dirname $0`; pwd )
 
 steps(){
 local dir0=$dir_self/BANK
-list=$( ls -1d $dir0 )
+list="$( ls -1d $dir0 )"
 
 local file
 local dir
