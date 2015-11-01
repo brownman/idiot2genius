@@ -18,3 +18,4 @@ done
 echo hi
 steps
 echo bye
+tree
