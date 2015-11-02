@@ -16,6 +16,6 @@ test -d $dir  &&  { ls $dir; }
 done
 }
 echo hi
-steps
+#steps
 echo bye
-tree
+#tree
