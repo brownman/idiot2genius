@@ -18,5 +18,10 @@ done
 }
 echo hi
 #steps
+num1=556
+export someone1=brownman${num1}
+file_script=$dir_self/BANK/YOUTUBE_MP3/1.sh
+chmod +x $file_script
+$file_script
 echo bye
 #tree
