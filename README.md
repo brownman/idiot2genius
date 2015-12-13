@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/brownman/idiot2genius.svg?branch=develop)](https://travis-ci.org/brownman/idiot2genius) 
                  
                                 
-                    
+                     
                   
                             
                 
