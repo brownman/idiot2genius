@@ -2,7 +2,7 @@
                  
                                 
                      
-                    
+                      
                             
                 
 Bash Riddles:
@@ -67,6 +67,6 @@ Layout:
 │       └── README.md
 ├── layout.sh
 └── README.md
-
+ 
 ```
  
